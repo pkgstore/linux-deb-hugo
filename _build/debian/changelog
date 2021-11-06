@@ -1,3 +1,9 @@
+hugo (0.89.1-100) unstable; urgency=medium
+
+  * NEW: Hugo v0.89.1.
+
+ -- Package Store <kitsune.solar@gmail.com>  Sat, 06 Nov 2021 17:30:00 +0300
+
 hugo (0.89.0-100) unstable; urgency=medium
 
   * NEW: Hugo v0.89.0.
