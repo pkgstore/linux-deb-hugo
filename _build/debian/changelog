@@ -1,20 +1,26 @@
+hugo (0.96.0-1000) unstable; urgency=medium
+
+  * NEW: Hugo v0.96.0.
+
+ -- Package Store <pkgstore@mail.ru>  Thu, 07 Apr 2022 16:26:00 +0300
+
 hugo (0.95.0-100) unstable; urgency=medium
 
   * NEW: Hugo v0.95.0.
 
- -- Package Store <mail@z17.dev>  Tue, 22 Mar 2022 01:00:00 +0300
+ -- Package Store <pkgstore@mail.ru>  Tue, 22 Mar 2022 01:00:00 +0300
 
 hugo (0.92.2-100) unstable; urgency=medium
 
   * NEW: Hugo v0.92.2.
 
- -- Package Store <mail@z17.dev>  Sun, 13 Feb 2022 12:00:00 +0300
+ -- Package Store <pkgstore@mail.ru>  Sun, 13 Feb 2022 12:00:00 +0300
 
 hugo (0.92.1-100) unstable; urgency=medium
 
   * NEW: Hugo v0.92.1.
 
- -- Package Store <mail@z17.dev>  Sat, 29 Jan 2022 22:00:00 +0300
+ -- Package Store <pkgstore@mail.ru>  Sat, 29 Jan 2022 22:00:00 +0300
 
 hugo (0.92.0-100) unstable; urgency=medium
 
