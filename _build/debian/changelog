@@ -1,3 +1,9 @@
+hugo (0.97.2-1000) unstable; urgency=medium
+
+  * NEW: Hugo v0.97.2.
+
+ -- Package Store <pkgstore@mail.ru>  Sun, 17 Apr 2022 15:02:00 +0300
+
 hugo (0.96.0-1000) unstable; urgency=medium
 
   * NEW: Hugo v0.96.0.
